@@ -12,6 +12,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/36384
     wikipedia: http://en.wikipedia.org/wiki/Elisha_Gray
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/33405#Familiar-Talks-on-Science--World-Building-and-Life--Earth-Air-and-Water.
 gutenberg_issued: '2010-08-11'
 gutenberg_type: Text
 identifiers:
